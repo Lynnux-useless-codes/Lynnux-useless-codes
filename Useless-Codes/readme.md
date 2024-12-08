@@ -8,4 +8,4 @@ The repository ensures that all necessary dependencies are installed before exec
 
 | Project | Description | Location |
 |---------|-------------|------|
-| **[Remount Drives](./remount_drives.sh)** | This mounts my HDD's when i start my pc. | `/usr/local` |
+| **[Remount Drives](./remount_drives.sh)** | This mounts my HDD's when i start my pc. | `/usr/local/bin` |
