@@ -16,3 +16,4 @@ The repository ensures that all necessary dependencies are installed before exec
 | **[connect_nordvpn_with_pihole](./connect_nordvpn_with_pihole.sh)** | Simply run pihole and connect nordvpn to it. | `/home/lynnux` | `bash` | [Preview](https://images2.imgbox.com/d5/16/HQ98U1J0_o.png) |
 | **[UnityPy-extract](./UnityPy-extract.py)** | Extract images and videos from unity games. | `~/Documents/Codes` | `python` | No Preview |
 | **[roll-dice](./roll-dice.py)** | Roll an amount of dice, has doubles etc. | `~/Documents/Codes` | `python` | [Preview](https://thumbs2.imgbox.com/d1/50/GMwiK3Ta_t.png) |
+| **[CountupPNGFilesInDirect](./CountupPNGFilesInDirect.py)** | Rename png files from up starting from 1. | `!/Documents/Codes` | `python` | [Preview](https://images2.imgbox.com/b6/12/wnOoyipz_o.png) |
