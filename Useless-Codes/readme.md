@@ -6,6 +6,6 @@ This project is a collection of useless codes.
 It includes various shell scripts and utilities designed to make MY life easier just a bit.
 The repository ensures that all necessary dependencies are installed before executing the scripts.
 
-| Project | Description | extra |
+| Project | Description | Location |
 |---------|-------------|------|
-| **[watermark_tool](https://github.com/Lynnux-useless-codes/watermark_tool)** | A Python script to add a watermark to images. | [View Project](https://github.com/Lynnux-useless-codes/watermark_tool) |
+| **[Remount Drives](./remount_drives.sh)** | This mounts my HDD's when i start my pc. | `/usr/local` |
