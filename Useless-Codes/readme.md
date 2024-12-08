@@ -17,3 +17,4 @@ The repository ensures that all necessary dependencies are installed before exec
 | **[UnityPy-extract](./UnityPy-extract.py)** | Extract images and videos from unity games. | `~/Documents/Codes` | `python` | No Preview |
 | **[roll-dice](./roll-dice.py)** | Roll an amount of dice, has doubles etc. | `~/Documents/Codes` | `python` | [Preview](https://thumbs2.imgbox.com/d1/50/GMwiK3Ta_t.png) |
 | **[CountupPNGFilesInDirect](./CountupPNGFilesInDirect.py)** | Rename png files from up starting from 1. | `!/Documents/Codes` | `python` | [Preview](https://images2.imgbox.com/b6/12/wnOoyipz_o.png) |
+| **[getRandomFileOrFolder](./getRandomFileOrFolder.sh) | ... Get Random File Or Folder from a dir and its sub-dirs. | `~/Documents/Codes` | `bash` | [Preview](https://images2.imgbox.com/95/55/dAgPNU0i_o.png) |
