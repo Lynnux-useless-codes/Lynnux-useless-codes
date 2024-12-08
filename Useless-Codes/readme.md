@@ -6,9 +6,9 @@ This project is a collection of useless codes.
 It includes various shell scripts and utilities designed to make MY life easier just a bit.
 The repository ensures that all necessary dependencies are installed before executing the scripts.
 
-| Project | Description | Location | Extention |
-|---------|-------------|----------|-----------|
-| **[Remount Drives](./remount_drives.sh)** | This mounts my HDD's when i start my pc. | `/usr/local/bin` | `bash` |
-| **[Switch Github](./switch-github)** | Makes it easier to swap from my alt to my main github account. | `/usr/local/bin` | `bash` |
-| **[Move](./move)** | Yes i prefer to say `move` instead of `mv`, sue me. | `/usr/local/bin` | `bash` |
-| **[Help](./help)** | Im forgetfull sometimes, sue me. | `/usr/local/bin` | `bash` |
+| Project | Description | Location | Extention | Preview |
+|---------|-------------|----------|-----------|---------|
+| **[Remount Drives](./remount_drives.sh)** | This mounts my HDD's when i start my pc. | `/usr/local/bin` | `bash` | [Preview](https://images2.imgbox.com/1b/af/XO3Zd141_o.png) |
+| **[Switch Github](./switch-github)** | Makes it easier to swap from my alt to my main github account. | `/usr/local/bin` | `bash` | DEPRECATED |
+| **[Move](./move)** | Yes i prefer to say `move` instead of `mv`, sue me. | `/usr/local/bin` | `bash` | [Preview](https://images2.imgbox.com/0b/4f/NGooAycb_o.png) |
+| **[Help](./help)** | Im forgetfull sometimes, sue me. | `/usr/local/bin` | `bash` | [Preview](https://images2.imgbox.com/7b/60/XObFG6Z7_o.png) |
