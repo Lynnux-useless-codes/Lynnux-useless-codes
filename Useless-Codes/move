@@ -1,0 +1,6 @@
+if [ "$#" -ne 2 ]; then
+	echo "usage: move \"/source/path/\" \"/destination/path/\""
+	exit 1
+fi
+
+rsync -a --info=progress2 --remove-source-files "$1" "$2"
