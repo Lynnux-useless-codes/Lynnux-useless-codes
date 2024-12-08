@@ -19,8 +19,8 @@ The repository ensures that all necessary dependencies are installed before exec
 | **[CountupPNGFilesInDirect](./CountupPNGFilesInDirect.py)** | Rename png files from up starting from 1. | `!/Documents/Codes` | `python` | [Preview](https://images2.imgbox.com/b6/12/wnOoyipz_o.png) |
 | **[getRandomFileOrFolder](./getRandomFileOrFolder.sh)** | ... Get Random File Or Folder from a dir and its sub-dirs. | `~/Documents/Codes` | `bash` | [Preview](https://images2.imgbox.com/95/55/dAgPNU0i_o.png) |
 | **[DiscordQuestBypass](./DiscordQuestBypass.js)** | Bypass script for discord quests. | `~/Documents/Codes` | `JavaScript` | No Preview |
-| **[Convert_jpeg_To_webp](./Convert_jpeg_To_webp.py) | Convert jpeg image To webp image. | `~/Documents/Codes` | `Python` | [Preview](https://images2.imgbox.com/2a/1d/2wOcfeor_o.png) |
-| **[Convert_mp4_To_webm](./Convert_mp4_To_webm.py) | Convert MP4 Video To webm Video. | `~/Documents/Codes` | `Python` | [Preview](https://images2.imgbox.com/e4/9a/OL5lzMF3_o.png) |
-| **[Convert_png_To_webp](./Convert_png_To_webp.py) | Convert PNG image To Webp Video. | `~/Documents/Codes` | `Python` | [Preview](https://images2.imgbox.com/97/68/PncdJk0G_o.png) |
-| **[Get_jpg_Data](./Get_jpg_Data.py) | Get jpg Image MetaData. | `~/Documents/Codes` | `Python` | [Preview](https://images2.imgbox.com/78/d7/af7aifeD_o.png) |
-| **[ImageToText](./ImageToText.py) | Converts Image to Text. Sure not optimised but it works ~Ish. | `~/Documents/Codes` | `Python` | [Preview](https://images2.imgbox.com/f8/7e/8fELdL21_o.png) |
+| **[Convert_jpeg_To_webp](./Convert_jpeg_To_webp.py)** | Convert jpeg image To webp image. | `~/Documents/Codes` | `Python` | [Preview](https://images2.imgbox.com/2a/1d/2wOcfeor_o.png) |
+| **[Convert_mp4_To_webm](./Convert_mp4_To_webm.py)** | Convert MP4 Video To webm Video. | `~/Documents/Codes` | `Python` | [Preview](https://images2.imgbox.com/e4/9a/OL5lzMF3_o.png) |
+| **[Convert_png_To_webp](./Convert_png_To_webp.py)** | Convert PNG image To Webp Video. | `~/Documents/Codes` | `Python` | [Preview](https://images2.imgbox.com/97/68/PncdJk0G_o.png) |
+| **[Get_jpg_Data](./Get_jpg_Data.py)** | Get jpg Image MetaData. | `~/Documents/Codes` | `Python` | [Preview](https://images2.imgbox.com/78/d7/af7aifeD_o.png) |
+| **[ImageToText](./ImageToText.py)** | Converts Image to Text. Sure not optimised but it works ~Ish. | `~/Documents/Codes` | `Python` | [Preview](https://images2.imgbox.com/f8/7e/8fELdL21_o.png) |
