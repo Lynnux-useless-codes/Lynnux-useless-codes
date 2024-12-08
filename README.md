@@ -85,6 +85,7 @@ Here's a glimpse into some of the fun and fabulous projects I’m working on:
 |---------|-------------|------|
 | **[watermark_tool](https://github.com/Lynnux-useless-codes/watermark_tool)** | A Python script to add a watermark to images. | [View Project](https://github.com/Lynnux-useless-codes/watermark_tool) |
 | **[Rule34 Scrapper](https://github.com/Lynnux-useless-codes/rule34-Scraper)** | A shell script that scrapes rule34. | [View Project](https://github.com/Lynnux-useless-codes/rule34-Scraper) |
+| **[AutoVTScanner](https://github.com/Lynnux-useless-codes/AutoVTScanner/)** | A Shell script to delete new malware. | [View Prokect](https://github.com/Lynnux-useless-codes/AutoVTScanner) |
 
 ## 🧁 Fun Quote
 
