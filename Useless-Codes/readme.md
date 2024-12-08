@@ -9,3 +9,4 @@ The repository ensures that all necessary dependencies are installed before exec
 | Project | Description | Location |
 |---------|-------------|------|
 | **[Remount Drives](./remount_drives.sh)** | This mounts my HDD's when i start my pc. | `/usr/local/bin` |
+| **[Switch Github](./switch-github)** | Makes it easier to swap from my alt to my main github account. | `/usr/local/bin` |
