@@ -12,3 +12,4 @@ The repository ensures that all necessary dependencies are installed before exec
 | **[Switch Github](./switch-github)** | Makes it easier to swap from my alt to my main github account. | `/usr/local/bin` | `bash` | DEPRECATED |
 | **[Move](./move)** | Yes i prefer to say `move` instead of `mv`, sue me. | `/usr/local/bin` | `bash` | [Preview](https://images2.imgbox.com/0b/4f/NGooAycb_o.png) |
 | **[Help](./help)** | Im forgetfull sometimes, sue me. | `/usr/local/bin` | `bash` | [Preview](https://images2.imgbox.com/7b/60/XObFG6Z7_o.png) |
+| **[base64-string](./base64-string)** | ... simple base64 encode/decode. | `/usr/local/bin` | `bash` | [Preview](https://images2.imgbox.com/63/58/KUPgTUI8_o.png) |
