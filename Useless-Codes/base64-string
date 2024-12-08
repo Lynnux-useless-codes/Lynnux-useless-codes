@@ -1,0 +1,18 @@
+#!/bin/bash
+
+if [ "$#" -lt 1 ]; then
+    echo "usage: base64-decode \"string\" [\"encode\"|\"decode\"]"
+    exit 1
+fi
+
+STRING="$1"
+ACTION="${2:-decode}"
+
+if [ "$ACTION" == "encode" ]; then
+    echo "$STRING" | base64
+elif [ "$ACTION" == "decode" ]; then
+    echo "$STRING" | base64 --decode
+else
+    echo "Invalid action: $ACTION. Use \"encode\" or \"decode\"."
+    exit 1
+fi
