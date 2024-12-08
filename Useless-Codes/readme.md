@@ -18,3 +18,4 @@ The repository ensures that all necessary dependencies are installed before exec
 | **[roll-dice](./roll-dice.py)** | Roll an amount of dice, has doubles etc. | `~/Documents/Codes` | `python` | [Preview](https://thumbs2.imgbox.com/d1/50/GMwiK3Ta_t.png) |
 | **[CountupPNGFilesInDirect](./CountupPNGFilesInDirect.py)** | Rename png files from up starting from 1. | `!/Documents/Codes` | `python` | [Preview](https://images2.imgbox.com/b6/12/wnOoyipz_o.png) |
 | **[getRandomFileOrFolder](./getRandomFileOrFolder.sh)** | ... Get Random File Or Folder from a dir and its sub-dirs. | `~/Documents/Codes` | `bash` | [Preview](https://images2.imgbox.com/95/55/dAgPNU0i_o.png) |
+| **[DiscordQuestBypass](./DiscordQuestBypass.js)** | Bypass script for discord quests. | `~/Documents/Codes` | `JavaScript` | No Preview |
