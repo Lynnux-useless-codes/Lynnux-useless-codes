@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Logger
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[0;33m'
+BLUE='\033[0;34m'
+WHITE='\033[0;37m'
+RESET='\033[0m'
+BOLD='\033[1m'
+
+if [ "$#" -lt 1 ]; then
+  echo -e "${RED}${BOLD}Wrong usage, please usage: ${WHITE}${BOLD}\"help \"command\"${RESET}"
+  exit 1
+fi
+
+COMMAND="$1"
+
+if [ "$COMMAND" == "zip" ]; then
+    echo -e "${WHITE}${BOLD}Make a zip file = \"${YELLOW}${BOLD}zip -r 'output_name.zip' './input_name'${WHITE}${BOLD}\"${RESET}\n${WHITE}${BOLD}Unzip a Zip-File: \"${YELLOW}${BOLD}unzip 'zip-file.zip' 'file/folder to export'${WHITE}${BOLD}\""
+elif [ "$COMMAND" == "antivirus" ]; then
+    echo -e "${WHITE}${BOLD}Update virus database = \"${YELLOW}${BOLD}sudo freshclam${WHITE}${BOLD}\"\n${WHITE}${BOLD}Check a folder and its subfolder/files = \"${YELLOW}${BOLD}clamscan -r /path/to/directory${WHITE}${BOLD}\""
+else
+    echo "This command is not indexed."
+    exit 1
+fi
