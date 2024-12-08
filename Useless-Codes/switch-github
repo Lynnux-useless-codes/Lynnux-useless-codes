@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# ssh-key paths
+LYNNUX_KEY="~/.ssh/id_ed25519_lynnux"
+DARKLYNN_KEY="~/.ssh/id_ed25519"
+
+# Check argument
+if [ "$1" == "lynnux" ]; then
+    echo "Switching to Lynnux account..."
+    ssh-add -D
+    ssh-add $LYNNUX_KEY
+    echo "Using Lynnux-useless-codes key: $LYNNUX_KEY"
+
+elif [ "$1" == "darklynn" ]; then
+    echo "Switching to Dark-LYNN account..."
+    ssh-add -D
+    ssh-add $DARKLYNN_KEY
+    echo "Using Dark-LYNN key: $DARKLYNN_KEY"
+
+else
+    echo "Usage: $0 [lynnux|darklynn]"
+    exit 1
+fi
