@@ -91,7 +91,7 @@ Here's a glimpse into some of the fun and fabulous projects I’m working on:
 
 “Life is like a party—sometimes it’s loud and crazy, and other times it’s sweet and quiet, but it’s always better with friends!” 🎊
 
-## 🎉 My Contributions
+## 🔗 My Contributions
 
 | Project | Description |
 |---------|-------------|
