@@ -91,6 +91,13 @@ Here's a glimpse into some of the fun and fabulous projects I’m working on:
 
 “Life is like a party—sometimes it’s loud and crazy, and other times it’s sweet and quiet, but it’s always better with friends!” 🎊
 
+## 🎉 My Contributions
+
+| Project | Description |
+|---------|-------------|
+| **[Forge.API](https://github.com/tryforge/forgeapi)** | Helped brainstorming and worked on templates/markdowns. |
+| **[NekoRPG](https://github.com/Plinkie03/NekoRPG)** | Helped setup version controle. |
+
 ## 📫 Let's Connect
 
 - [GitHub](https://github.com/Dark-LYNN) - Follow me for more exciting updates and projects!
