@@ -96,7 +96,7 @@ Here's a glimpse into some of the fun and fabulous projects I’m working on:
 | Project | Description |
 |---------|-------------|
 | **[Forge.API](https://github.com/tryforge/forgeapi)** | Helped brainstorming and worked on templates/markdowns. |
-| **[NekoRPG](https://github.com/Plinkie03/NekoRPG)** | Helped setup version controle. |
+| **[NekoRPG](https://github.com/Plinkie03/NekoRPG)** | Helped setup version control. |
 
 ## 📫 Let's Connect
 
