@@ -81,11 +81,13 @@ I'm the most energetic and party-loving pony in all of Equestria! Whether I'm ba
 
 Here's a glimpse into some of the fun and fabulous projects I’m working on:
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **[watermark_tool](https://github.com/Lynnux-useless-codes/watermark_tool)** | A Python script to add a watermark to images. | [View Project](https://github.com/Lynnux-useless-codes/watermark_tool) |
-| **[Rule34 Scrapper](https://github.com/Lynnux-useless-codes/rule34-Scraper)** | A shell script that scrapes rule34. | [View Project](https://github.com/Lynnux-useless-codes/rule34-Scraper) |
-| **[AutoVTScanner](https://github.com/Lynnux-useless-codes/AutoVTScanner/)** | A Shell script to delete new malware. | [View Prokect](https://github.com/Lynnux-useless-codes/AutoVTScanner) |
+| Project | Description | Source | Language |
+|---------|-------------|--------|----------|
+| **[watermark_tool](https://github.com/Lynnux-useless-codes/watermark_tool)** | A Python script to add a watermark to images. | [View Project](https://github.com/Lynnux-useless-codes/watermark_tool) | Python |
+| **[Rule34 Scrapper](https://github.com/Lynnux-useless-codes/rule34-Scraper)** | A shell script that scrapes rule34. | [View Project](https://github.com/Lynnux-useless-codes/rule34-Scraper) | Bash |
+| **[AutoVTScanner](https://github.com/Lynnux-useless-codes/AutoVTScanner/)** | A Shell script to delete new malware. | [View Prokect](https://github.com/Lynnux-useless-codes/AutoVTScanner) | Bash |
+| **[Akira](https://github.com/LynnuxDev/akira/)** | A discord bot written in forgescript. | [View Project](https://github.com/LynnuxDev/akira) | TypeScript |
+| **[Custom API](https://api.lynnux.xyz/)** | A api made with express, canvas and discord.js | Project Is Closed Source | TypeScript |
 
 ## 🧁 Fun Quote
 
@@ -93,10 +95,11 @@ Here's a glimpse into some of the fun and fabulous projects I’m working on:
 
 ## 🔗 My Contributions
 
-| Project | Description |
-|---------|-------------|
-| **[Forge.API](https://github.com/tryforge/forgeapi)** | Helped brainstorming and worked on templates/markdowns. |
-| **[NekoRPG](https://github.com/Plinkie03/NekoRPG)** | Helped setup version control. |
+| Project | Description | Language |
+|---------|-------------|----------|
+| **[ForgeScript](https://github.com/tryforge/forgescript)** | Helped make a handfull of functions. | TypeScript |
+| **[Forge.API](https://github.com/tryforge/forgeapi)** | Helped brainstorming and worked on templates/markdowns. | MarkDown |
+| **[NekoRPG](https://github.com/Plinkie03/NekoRPG)** | Helped setup version control. | N/A |
 
 ## 📫 Let's Connect
 
