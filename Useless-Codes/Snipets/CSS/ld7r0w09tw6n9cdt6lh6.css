@@ -1,13 +1,1 @@
-/* IMAGE BLUR*/
-.torrent-card__aside img {
-    display: inline-block;
-    overflow: hidden;
-    filter: blur(16px);
-    -webkit-filter: blur(16px);
-    backdrop-filter: blur(16px);
-    -webkit-backdrop-filter: blur(16px);
-    background-color: #161616;
-}
-.torrent-card__aside  img:hover {
-    filter: none
-}
+.torrent-card__aside img{display:inline-block;overflow:hidden;filter:blur(16px);-webkit-filter:blur(16px);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);background-color:#161616}.torrent-card__aside img:hover{filter:none}
