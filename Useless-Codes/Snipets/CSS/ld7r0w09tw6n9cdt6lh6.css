@@ -1,1 +1,13 @@
-.bbcode,a:visited,body{color:#fff}:root{--top-nav-bg:#27272780,}.alert{background-color:#00000050}.panel__heading{padding:12px 5px,}.alerts,.pagination__ellipsis,.pagination__link,.pagination__next,.pagination__page-wrapper,.panelV2,.panel__action,.panel__header{background-color:#00000000}.data-table th,.pagination,.panel__actions,.panel__body,.panel__heading,.secondary-nav,.subforum-listings__item:nth-child(odd){background-color:#1c1c1c80!important}.pagination__items>li{background-color:#00000050!important}.pagination__current{background-color:#ff000030}body{background-color:#161616!important;background-image:url('https://www.happyfappy.org/static/styles/dim/images/background.png')!important;background-repeat:repeat!important;background-attachment:fixed!important}.torrent-card__aside img{display:inline-block;overflow:hidden;filter:blur(16px);-webkit-filter:blur(16px);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);background-color:#161616}.torrent-card__aside img:hover{filter:none}.bbcode{background:#1e1e1e}
+/* IMAGE BLUR*/
+.torrent-card__aside img {
+    display: inline-block;
+    overflow: hidden;
+    filter: blur(16px);
+    -webkit-filter: blur(16px);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    background-color: #161616;
+}
+.torrent-card__aside  img:hover {
+    filter: none
+}
